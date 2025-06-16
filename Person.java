@@ -1,9 +1,3 @@
-/*
- * File Name: Person.java
- * Authors: Moxin Guo, Victoria Wong, Victor Kwong
- * Description: This file is a class for a person/character of the "Guess Who?" game.
- */
-
 public class Person {
     // -=-  Attributes of a Person  -=-
     private String name; // The name of the character.
